@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1429994928 source:/home/k24/Dropbox/_cpp/minesweeper-cpp/minesweeper-ncurses/main.cpp
+	"plansza.h"
+	"pole.h"
+	"ui.h"
+	<ctime>
+	<cstdlib>
+	<curses.h>
+
+1425908135 /home/k24/Dropbox/_cpp/minesweeper-cpp/minesweeper-ncurses/plansza.h
+	"pole.h"
+	<vector>
+
+1425840728 /home/k24/Dropbox/_cpp/minesweeper-cpp/minesweeper-ncurses/pole.h
+
+1425913401 /home/k24/Dropbox/_cpp/minesweeper-cpp/minesweeper-ncurses/ui.h
+
+1490599254 source:/home/k24/Dropbox/_cpp/minesweeper-cpp/minesweeper-ncurses/plansza.cpp
+	"plansza.h"
+	"pole.h"
+	<cstdlib>
+	<ctime>
+	<curses.h>
+	"ui.h"
+
+1425834587 source:/home/k24/Dropbox/_cpp/minesweeper-cpp/minesweeper-ncurses/pole.cpp
+	<iostream>
+	"pole.h"
+
+1425914590 source:/home/k24/Dropbox/_cpp/minesweeper-cpp/minesweeper-ncurses/ui.cpp
+	"ui.h"
+	"plansza.h"
+	<curses.h>
+
